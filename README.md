@@ -7,7 +7,7 @@
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 
-# Deep Learning with Regularization Techniques for Malaria Identification#
+# Deep Learning with Regularization Techniques for Malaria Identification
 
 <br/>
 
