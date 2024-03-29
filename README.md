@@ -38,7 +38,7 @@ Central to the spread of malaria are Plasmodium parasites, transmitted via the b
 
 ## Getting Started
 
-**To run the script please use this file on Google Colab or Jupyter Notebook:**
+**To run the script please use these files on Google Colab or Jupyter Notebook:**
 
 
 ```Scripts``` folder contains all scripts used to train and test models. More details on how to train and test the code is mentioned inside ```Scripts``` folder.
